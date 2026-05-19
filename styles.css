@@ -1,0 +1,8 @@
+body {
+    background-color: #f0f0f0; /* Color de fondo claro */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Altura completa de la ventana */
+    margin: 0; /* Eliminar márgenes por defecto */
+}
